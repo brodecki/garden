@@ -1,0 +1,26 @@
+body {
+	background-color: #fff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 62,5%;
+}
+
+.contener {
+	width: 80%;
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+header h1 {
+	float: left;
+	width: 35%;
+	min-width: 200px;
+}
+
+header h1 a {
+	display: block;
+	width: 200px;
+	height:60px;
+	margin: 5px 0;
+	text-indent: -999em;
+	background: URL("../images/logo.png") top left no-repeat;
+}
